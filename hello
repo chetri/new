@@ -1,0 +1,3 @@
+penDown();
+moveForward();
+dot(55);
